@@ -2,3 +2,5 @@ Hello Gerrit
 git push
 test push
 test abandon
+git push
+add a good code
